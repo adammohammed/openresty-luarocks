@@ -1,0 +1,5 @@
+openresty-luarocks (3.7.0-1) unstable; urgency=medium
+
+  * Initial release - luarocks built for openresty on buster
+
+ -- Adam Mohammed <zadammo@protonmail.com>  Wed, 30 Jun 2021 23:25:03 +0000
